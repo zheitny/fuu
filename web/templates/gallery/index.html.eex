@@ -1,0 +1,3 @@
+<div>
+  <img src="<%= static_path(@conn, "/thumbs/output.jpg") %>"/>
+</div>
